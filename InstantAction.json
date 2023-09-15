@@ -6,6 +6,7 @@
   "Lasted_Config_Version": "1.7.5",
   "Stable_Version": {
     "Valid_Version": [
+      "1.7.0",
       "1.7.5"
     ],
     "RealTime_AutoUpdate": false
